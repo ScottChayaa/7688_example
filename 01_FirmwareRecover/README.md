@@ -17,10 +17,15 @@
 * step3: 
   拷貝lks7688.img至隨身碟根目錄
 
-4. 隨身碟接至7688的USB HOST
+* step4: 
+  隨身碟接至7688的USB HOST
 
-5. 按下wifi reset 不放，再按一下MPU reset並放開(wifi reset還不能放喔)，等五秒後再放開wifi reset
+* step5: 
+  按住wifi reset 不放，再按一下MPU reset並放開(wifi reset還不能放喔)，等五秒後再放開wifi reset
 
-6. 請等約五分鐘…wifi 燈號一開始會快閃，然後穩定的閃亮，更新完成時7688會重啟(耐心！耐心！)
+* step6: 
+ 等約五分鐘…wifi 燈號一開始會快閃，然後穩定的閃亮，更新完成時7688會重啟
+ ![](images/step6.png)
 
-7. done.   
+* step7: 
+  done.   
