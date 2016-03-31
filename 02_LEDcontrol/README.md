@@ -9,7 +9,7 @@
 
 
 ## example2
-* Show words on 8x8 led matrix
+* Show words on 8x8 led matrix  
 * Persistence of vision, 視覺暫留  
 
   ![](images/example2.jpg)
