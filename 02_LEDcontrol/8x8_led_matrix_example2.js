@@ -247,9 +247,9 @@ function showFont(font,milliseconds){
 
 //============================================================
 
-// 預設全亮測試
-for(var idx=0; idx<8; idx++) col[idx].dir(mraa.DIR_OUT_HIGH);
-for(var idx=0; idx<8; idx++) row[idx].dir(mraa.DIR_OUT_LOW);
+// Change Gpio direction : GPIO初始化, 輸出mode
+for(var idx=0; idx<8; idx++) col[idx].dir(mraa.DIR_OUT);
+for(var idx=0; idx<8; idx++) row[idx].dir(mraa.DIR_OUT);
 
 LightUp();
 sleep(1000);
